@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,validator",
+    "logging_enabled": "false",
+    "name": "validatorSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "validatorSmokeTest.js"
+}
